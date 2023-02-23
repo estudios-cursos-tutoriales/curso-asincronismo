@@ -1,2 +1,2 @@
-# curso-asincronismo
+# Curso Asincronismo
 Curso Asincronismo en Platzi
